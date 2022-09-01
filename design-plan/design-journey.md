@@ -1,14 +1,3 @@
-# Project 3: Design Journey
-
-**For each milestone, complete only the sections that are labeled with that milestone.** Refine all sections before the final submission. If you later need to update your plan, **do not delete the original plan, leave it place and append your new plan below the original.** Explain why you are changing your plan. Remember you are graded on your design process. Updating the plan documents your process!
-
-**Replace ALL _TODOs_ with your work.** (There should be no TODOs in the final submission.)
-
-Be clear and concise in your writing. Bullets points are encouraged.
-
-**Everything, including images, must be visible in Markdown Preview.** If it's not visible in Markdown Preview, then we won't grade it. We won't give you partial credit either. **Your design journey should be easy to read for the grader; in Markdown Preview the question _and_ answer should have a blank line between them.**
-
-
 ## Design / Plan (Milestone 1)
 
 **Make the case for your decisions using concepts from class, as well as other design principles, theories, examples, and cases from outside of class (includes the design prerequisite for this course).**
